@@ -1,16 +1,17 @@
-# calculadora
+# Simple Calculadora v1.0.0
 
-A new Flutter project.
+Esta aplicación te permite sumar, restar, multiplicar y dividir; Además de resetear los valores, borrar dígitos y cambiar el signo positivo a negativo.
 
-## Getting Started
+## Demostración
 
-This project is a starting point for a Flutter application.
+<img src="https://firebasestorage.googleapis.com/v0/b/gvoscar-4686d.appspot.com/o/res%2FSimple-Chat-01.jpg?alt=media&token=0dd06cbb-cdc5-4671-82ee-356894505815" width="210" height="430" />
+<img src="https://firebasestorage.googleapis.com/v0/b/gvoscar-4686d.appspot.com/o/res%2FSimple-Chat-02.jpg?alt=media&token=85a39e94-0d1c-400f-8fef-217736d351a5" width="210" height="430" />
+<img src="https://firebasestorage.googleapis.com/v0/b/gvoscar-4686d.appspot.com/o/res%2FSimple-Chat-03.jpg?alt=media&token=eaa721e8-9a3d-4af0-ac94-ef313eee387a" width="210" height="430" />
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnología Utilizada
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Esta aplicación fue desarrollada en Flutter, y utiliza como gestor de estado GetX
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [powered by Oscar Giraldo](https://www.linkedin.com/in/gvoscar20/)
+
+¿Tienes una idea de negocio, necesitas un PMV para validar tu Nicho y comprobar tu Tracción? Llegaste al lugar indicado. [Somos Pasili.com](https://www.pasili.com/) | Expertos en Soluciones Tecnológicas a tu Medida.
